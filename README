@@ -19,7 +19,7 @@ This module requires these other modules and libraries:
     Text::CSV_XS
     Locale::Maketext::Lexicon
 
-COPYRIGHT AND LICENCE
+COPYRIGHT AND LICENSE
 
 Copyright (C) 2014 by David Arnold <david.arnold@online-rewards.com>
 
