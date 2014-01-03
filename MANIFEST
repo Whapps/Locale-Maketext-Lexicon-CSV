@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Locale-Maketext-Lexicon-CSV.t
+lib/Locale/Maketext/Lexicon/CSV.pm
