@@ -11,7 +11,9 @@ use Text::CSV_XS;
 
 sub parse {
     my @lines = @_;
-    my $csv = Text::CSV_XS->new;
+    my $csv = Text::CSV_XS->new({
+        binary => 1,
+    });
     my %out;
 
     foreach my $line (@lines)
